@@ -1,0 +1,26 @@
+{
+  "name": "solana_projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francofin/solana_projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francofin/solana_projects/issues"
+  },
+  "homepage": "https://github.com/francofin/solana_projects#readme",
+  "dependencies": {
+    "@solana/spl-token": "^0.2.0",
+    "@solana/web3.js": "^1.50.1",
+    "dotenv": "^16.0.1"
+  },
+  "type": "module"
+}
